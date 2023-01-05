@@ -2,3 +2,4 @@ doc
 pdf
 *.pdf
 *.ipynb
+requirements.txt
