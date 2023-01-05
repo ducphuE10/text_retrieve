@@ -1,0 +1,1365 @@
+MIDILLI HYDROELECTRIC POWER
+Document Prepared By Ekobil Environmental Services and Consulting Ltd.
+Contact Information: info@ekobil.com
+TABLE OF CONTENTS
+Table of Contents ......................................................................................................................................... 2
+1 Project Details ........................................................................................................................................... 3
+1.1  Summary Description of the Project .............................................................................................. 3
+1.2  Sectoral Scope and Project Type .................................................................................................. 5
+1.3  Project Proponent .......................................................................................................................... 5
+1.4  Other Entities Involved in the Project ............................................................................................. 5
+1.5  Project Start Date .......................................................................................................................... 5
+1.6  Project Crediting Period ................................................................................................................. 5
+1.7  Project Scale and Estimated GHG Emission Reductions or Removals ......................................... 6
+1.8  Description of the Project Activity .................................................................................................. 6
+1.9  Project Location ............................................................................................................................. 9
+1.10  Conditions Prior to Project Initiation ............................................................................................ 9
+1.11  Compliance with Laws, Statutes and Other Regulatory Frameworks ....................................... 10
+1.12  Ownership and Other Programs ................................................................................................ 10
+1.12.1  Right of Use ........................................................................................................................ 10
+1.12.2  Emissions Trading Programs and Other Binding Limits ..................................................... 10
+1.12.3  Other Forms of Environmental Credit ................................................................................. 10
+1.12.4  Participation under Other GHG Programs .......................................................................... 10
+1.12.5  Projects Rejected by Other GHG Programs ....................................................................... 10
+1.13  Additional Information Relevant to the Project .......................................................................... 11
+2 Application of Methodology ..................................................................................................................... 12
+2.1  Title and Reference of Methodology ............................................................................................ 12
+2.2  Applicability of Methodology ........................................................................................................ 12
+2.3  Project Boundary ......................................................................................................................... 15
+2.4  Baseline Scenario ........................................................................................................................ 15
+2.5  Additionality ................................................................................................................................. 16
+2.6  Methodology Deviations .............................................................................................................. 23
+3 Quantification of GHG Emission Reductions and Removals .................................................................. 25
+3.1  Baseline Emissions ...................................................................................................................... 25
+3.2  Project Emissions ........................................................................................................................ 32
+3.3  Leakage ....................................................................................................................................... 32
+3.4  Net GHG Emission Reductions and Removals ........................................................................... 32
+4 Monitoring ............................................................................................................................................... 40
+4.1  Data and Parameters Available at Validation .............................................................................. 40
+4.2  Data and Parameters Monitored .................................................................................................. 43
+4.3  Monitoring Plan ............................................................................................................................ 45
+5 Environmental Impact ............................................................................................................................. 49
+6 Stakeholder Comments .......................................................................................................................... 50
+Annex-1: The Legal Framework of the Host Country That Binds the Project Activity ................................ 51
+Annex-2: Baseline Information ................................................................................................................... 53
+Annex-3: The EIA Exemption Certificate of the Project Activity ................................................................. 72
+Annex-4: The Electricity Generation License ............................................................................................. 73
+Annex-5: The Map Showing the Reservoir Area of the Project Activity ..................................................... 74
+1  PROJECT DETAILS
+1.1  Summary Description of the Project
+Masat Enerji Elektrik Üretim ve Tic. Ltd. Şti. is to construct a 32.55 MWe capacity Hydroelectric
+Power plant. Midilli Hydroelectric Power Plant (Midilli HPP in short) is a project that is designed
+and planned to be constructed on Yeşilırmak river , Amasya Turkey. Yeşilırmak River, is one of
+the biggest rivers in Turkey, and gives its name to the Yeşilırmak basin that makes up one of the
+26 big river catchments of Turkey. The purpose of the project is to supply electricity to the Turkish
+power grid, from a renewable source.
+The Project Activity (PA) utilizes the Yeşilırmak river water in a diversion-type run-of-river hydro
+power scheme to generate electricity with zero carbon emissions for the Turkish Power Grid. The
+PA will be displacing electricity that would otherwise be generated by the existing grid of the host
+country. Annual gross electricity production by the PA is estimated to be 124,050  MWh1.
+Therefore the Project Activity is expected to lead to an emission reduction of 63,7612 tonnes CO
+The environmental impacts of the project is kept to a minimum level and all the regulations that
+are in act in the host country, Turkey, are obeyed during the construction and operation stages of
+the Midilli HPP project. At the planning stage these impacts have been investigated and were
+presented to the Ministry of Environment and Urban Planning (MoEUP), in the form of a Project
+Introductory File (PIF). The provincial directorate of MoEUP in Amasya province examined the
+report, and the project was granted an EIA not Necessary certification. Considering that the
+project will be using the water resource that is also essential for the aquatic life in the area, there
+is a fish ladder (fish passage way) within the regulator for the downstream and upstream
+movement of the fish, to facilitate fish migration.
+The, project owner Masat Enerji  Elektrik Üretim ve Tic. Ltd. Şti., also owns an Hydro Power
+plant, namely the 22.5 MW capacity Yavuz HPP at the downstream of the project activity, and
+initially the two projects were developed together, however, it was not possible to benefit from
+carbon finance at the time of initial project development as the knowhow at the project owner side
+and the host country was limited at the time of early project development compared to the time
+when this PDD is being prepared. Initially for the two project the project owner signed a loan
+contract, but utilized the entire amount prior to the construction of Midilli HPP, for the Yavuz HPP
+Project and then they applied for another finance source as the project costs have increased
+significantly, and there were not many resource left for the Midilli HPP.  Signing of the first loan is
+considered as the investment decision date for the Midilli HPP. Accordingly the Major milestones
+at the project development history can be summarized as shown in the following table (Table 1):
+1 The amount of electricity the project expected to produce is taken from the Revized Feasibility report dated September 2008
+2 Calculated by multiplying the annual electricity production with te Combined margin emission reduction factor (0.5140016
+tCO /MWh) calculated on the 3rd section of this document.
+Table 1: Major project milestones
+The Electricity Production License is granted for the project
+Substantial Operation Protocol  for Unit 2 and
+How the project activity will be operating, and the boundary of the project activity (indicated in
+broken red line) is outlined in the following figures (Figure 1).
+Figure 1: Flow chart showing the basic operational principles of the project activity, and
+the project boundary.
+3 Investment Decision Date
+1.2  Sectoral Scope and Project Type
+The project category is Sectoral Scope 1: Energy industries (renewable-/non -renewable
+sources). The project type is grid connected electricity generation from renewable sources. The
+project is a non-grouped, stand-alone project.
+1.3  Project Proponent
+1.4  Other Entities Involved in the Project
+1.5  Project Start Date
+Project start date is 27 December 2012 as indicated on the substantial completion document
+issued by the ministry of Energy and Natural Resources.
+1.6  Project Crediting Period
+The project crediting period is 10 years: 27.12.2012-26.12.2022 (both days inclusive). The
+crediting period is renewable twice.
+4 Registered to the Ankara Chamber of commerce with the registration number 145009 and the full tittle of Ekobil Çevre Hizmetleri
+Danışmanlık Eğitim Tarım Hayvancılık Madencilik İnşaat İthalat İhracat Turizm ve Ticaret Limited Şirketi (www.ekobil.com)
+1.7  Project Scale and Estimated GHG Emission Reductions or Removals
+1.8  Description of the Project Activity
+The Project Activity is comprised of the following main parts: a diversion weir to divert the water, a
+channel connected by two conveyance tunnels and the powerhouse where the turbines are
+housed. Water will be collected by a controlled weir. The weir will also include two spillway gates,
+a spill water crest and a fish gate on the left bank. Water will enter the weir from an intake
+structure and leave the weir from the outlet gates into a 13,435 m conveyance tunnel-channel
+system. The water will then pass to the turbines via a surge tank and a penstock of 230 m. A
+gross head of 152 m will be formed (net head 132.14 m) and water will be discharged into four
+Francis turbines, which are contained within the powerhouse. The electricity will be transmitted
+via 34.5 kV transmission lines through Yenidere Havza transformer substations, via 11 km
+5 Calculated based on annual electricity production ammount presented in pdf page 243 of the revised feasibility report and the
+combined margin emmission factor calculated on section 3 of this document.
+transmission line. The Project Activity will implement the best available technology and
+management standards.
+To summarize the technical description of the Project Activity, the main technical characteristics
+obtained from final revised and DSİ approved feasibility report  and latest information based on
+the final water usage agreement of the Project Activity and its general properties of the facilities
+are provided below (Table 2):
+Table 2:General properties of the project facilities
+Total Production Hours (h)
+Dam Voltage (kV)  3 x 10.6 kV; 1 x 6.3 kV
+Energy Transmission Line Section  33 kV
+Energy Transmission Line Length (km)  11 km
+The project will be using Four Francis type turbines. The working principle of the Francis turbine
+is such that the water coming from the penstock is transferred to the inlet scroll, which distributes
+the water equally around the wicket gates. Water passes through the wicket gates, which controls
+the amount of water passing through the turbine, before reaching the runner. This in effect
+controls the power output of the hydroelectric power plant. The wicket gates also adjust the angle
+of the water reaching to the runner. After passing through the wicket gates, the water reaches the
+runner. The water pressure forces the runner to rotate. The rotation speed of the runner can be in
+the range of 80 to 1000 revolutions per minute. The water continues its motion downward under
+the runner to the exit pipe. The exit pipe discharges the water to the environment as low pressure
+water. The rotational motion of the runner is transferred to an electric generator. The generated
+electricity is converted to a high voltage current and is transferred to the grid to be consumed..
+The following figure exhibits the working principle of a Vertical axis Francis Turbine (Figure 4):
+Figure 2: The working principle of a Francis type turbine.
+The project owner is granted a production license for 49 years  The economic life time of a hydro
+power plant investment is assumed to be about 50 years, based on the experts’ committee report
+on energy under the 8th development plan published by the State planning organization. Even if
+the facility can last for 50 years the major equipment needs to be replaced in every 20 years .
+The project is expected to produce 124,050 MWh of electricity per year, over the first crediting
+period. The annual electricity delivered to the grid by the project, would have otherwise been
+generated by the operation of grid-connected power plants and by the addition of new generation
+sources. Based on this a combined margin emission reduction factor is calculated as detailed
+below in Chapter 3 of this document.
+1.9  Project Location
+The host party is the Republic of Turkey6.
+The Project is located at the Black Sea Geographical Region/ Amasya Province
+The following are the exact coordinates of the main project structures, as shown in the following
+figure (Figure 3).
+Figure 3: Google Earth image showing the exact project location within Turkey, and with respect
+to Amasya Province.
+1.10  Conditions Prior to Project Initiation
+There was no other hydroelectric power plant installation at the project location. The project
+activity does not generate greenhouse gas emissions, so it can be excluded that the
+implementation has been made only in order to generate GHG emissions with their subsequent
+6 The host country Turkey is an Annex 1 country under UNFCCC, and a party to Kyotoprotocol without a binding emission reduction
+target. For more detail please visit : http://www.mfa.gov.tr/united-nations-framework-convention-on-climate-change-_unfccc_-and-
+1.11  Compliance with Laws, S tatutes and Other Regulatory Frameworks
+Addition of a new power generation capacity to the grid is regulated by Energy Market Regulatory
+Authority (EMRA) who issues the licenses for electricity generation and is responsible for
+ensuring that new capacity additions are in compliance with its rules and regulations. The list of
+the rules and regulations of the host country that a new electricity generation project has to
+comply with is given in Annex 1.
+1.12  Ownership and Other Programs
+1.12.1 Right of Use
+Ownership of the plant, equipment and electricity generation licence belongs to Masat Enerji
+Elektrik Üretim ve Tic. Ltd. Şti. and all emission reductions/removals are granted to the company.
+The production license and the operating certification of the company given by the Chamber of
+Commerce are provided to the validating DOE as proof of the Title.
+1.12.2 Emissions Trading Programs and Other Binding Limits
+Not applicable
+The Project Activity is not embedded under any kind of Emission trading programs. Turkey is not
+an Annex-B country under Kyoto Protocol, neither has its set national emission reduction targets
+nor any related obligations.
+1.12.3 Other Forms of Environmental Credit
+Not applicable
+The project will not generate other form of environmental credits such as Green Power
+1.12.4 Participation under Other GHG Programs
+Not applicable
+The project is a voluntary project and the host country, Turkey cannot host CDM or JI projects.
+The project has not been registered under any other voluntary GHG program.
+1.12.5 Projects Rejected by Other GHG Programs
+Not applicable
+The project has not been rejected by any other Green House Gas programme.
+1.13  Additional Information Relevant to the Project
+Eligibility Criteria
+The Project is eligible to be a VCS Project because:
+•  VCS v.3.3 has taken effect on 04.10.2012, accordingly the Project is eligible to use this
+•  VCS v.3.3 requires project crediting period start date earliest to be 01.01.2002, besides,
+the Project must also complete the validation within two years of the Project Start Date, which is
+24.May 2011. Both conditions are satisfied for the Project activity.
+•  VCS v.3.3 accepts all six Kyoto Protocol gases. The Project aims to reduce CO , which is
+one of these six Kyoto Protocol gases.
+•  VCS v.3.3 accepts all technologies supported by a VCS approved GHG program. The
+Project is a hydropower plant, the technology of which is included in the UNFCCC- CDM  sectoral
+scope 1.
+•  VCS v.3.3 requires the use of one of the VCS program approved project methodologies.
+The Project activity uses the tools and methodologies of approved by UNFCCC CDM executive
+board, which is a VCS approved program.
+•  The project does not benefit from any kind of Official Development Assistance.
+•  The host country is a party to UNFCCC and Kyoto protocol but Turkey does not have any
+binding emissions reduction target thus the project is eligible for VCS.
+•  In addition to the above, the project is not a grouped project activity, nor de-bundled part
+of a grouped project activity
+Leakage Management
+Not Applicable as the project is a green field project.
+Commercially Sensitive Information
+A detailed Excel workbook summarizing the financial analysis is provided to the validating DOE
+with relevant evidences that are commercially sensitive, these will not be disclosed to public.
+Further Information
+No Further information to be added.
+2  APPLICATION OF METHODOLOGY
+2.1  Title and Reference of Methodology
+Approved consolidated baseline and monitoring methodology ACM0002 “Large-scale
+Consolidated Methodology; Grid-connected electricity generation from renewable sources.”
+Version 14.0.0.
+The Approved Methodology refers to the following tools:
+“Tool for the demonstration and assessment of additionality” (Version 07.0.0; EB 70 -Annex 8 )
+“Tool to calculate the emission factor for an electricity system”. (Version 04.0.0;EB 75-Annex 15)
+"Guidelines on the assessment of investment analysis” (Version 5; EB62-Annex 5)
+2.2  Applicability of Methodology
+The ACM0002 (version 14.0.0) methodology is applicable to grid-connected renewable power
+generation project activities that: (a) install a new power plant at a site where no renewable power
+plant was operated prior to the implementation of the project activity (greenfield plant); (b) involve
+a capacity addition; (c) involve a retrofit of (an) existing plant(s); or (d) involve a replacement of
+(an) existing plant(s).
+The choice of methodology ACM0002, Version 14.0.0, is justified as the project activity meets the
+following applicability criteria:
+7 The reservoir volume Area curve that indicates the aerial extent of the reservoir at maximum operation level is provided in Annex 5.
+8  This requirement can be demonstrated, for example: (i) by the fact that water flow from upstream power units spilling directly to
+the downstream reservoir; or (ii) through the analysis of the water balance. Water balance is the mass balance of water fed to
+power units, with all possible combinations of multiple reservoirs and without the construction of reservoirs. The purpose of such
+water balance is to demonstrate the requirement of specific combination of multiple reservoirs constructed under CDM project
+activity for the optimization of power output. This demonstration has to be carried out in the specific scenario of water availability
+in different seasons to optimize the water flow at the inlet of power units. Therefore this water balance will take into account
+seasonal flows from river, tributaries (if any), and rainfall for minimum three years prior to implementation of CDM project activity.
+9  The ACM002 (version 13.0.0) indicates that “…project participants wishing to undertake a hydroelectric project activity that result
+in a new reservoir or an increase in the existing reservoir, in particular where reservoirs have no significant vegetative biomass in
+the catchments area, may request a revision to the approved consolidated methodology”.. ;In the case of the project activity as
+the power density is greater than 4 W/m2, there is no need for such a claim or revision request. .
+2.3  Project Boundary
+baseline but the project activity does not emit any of the gases listed, in Table 4.
+The project boundary includes net electricity generated and supplied to the Turkish national grid.
+Table 3: Main gases included in the project boundary
+2.4  Baseline Scenario
+Since the proposed project activity is the installation of a new grid-connected hydroelectric, that is
+renewable power plant and therefore, the baseline scenario is defined as the following based on
+ACM0002 (Version 14.0.0):
+“Electricity delivered to the grid by the project activity would have otherwise been generated by
+the operation of grid-connected power plants and by the addition of new generation sources, as
+reflected in the combined margin (CM) calculations described in the. Tool to calculate the
+emission factor for an electricity system (v.03.0.0; EB 70-Annex 22).”
+Since the proposed project activity is going to be connected to the Turkish national grid, the
+baseline scenario of the proposed project is the supply of the equivalent amount of annual power
+output by the existing Turkish national grid which is the continued operation of existing power
+plants and the addition of new sources to meet electricity demand.
+Based on ACM002, baseline emissions are equal to power generated by the project activity that
+is delivered to the Turkish national grid, multiplied by the baseline emissions factor. This baseline
+emissions factor (EFy) is calculated as the Combined Margin (CM), of which the breakdown and
+detailed description is given below in chapter 3.
+2.5  Additionality
+The proposed project activity reduces GHG emissions by substituting fossil fuel based electricity
+generation by renewable resources (hydro) based electricity generation.
+This part refers to the “Tool for the Demonstration and Assessment of Additionality Version 7.0.0”
+and the numbering in this section reflects the Tool’s Guidelines provided at EB 70, Annex 8.
+Step 1 - Identification of Alternatives to the project activity consistent with current laws
+and regulations
+Sub-step 1a - Define alternatives to the project activity:
+The tool notifies that “Project activities that apply this tool in context of approved consolidated
+methodology ACM0002, only need to identify that there is at least one credible and feasible
+alternative that would be more attractive than the proposed project activity.”
+The project alternative can be defined as follows:
+Continuation of the current situation (No project activity or other alternatives undertaken). This
+alternative is the most likely scenario, since there are no legal obligation to implement such a
+project and without VCS support the project implementation is financially not attractive.
+Outcome of Step 1a: The only realistic and credible alternative scenario to the project activity is
+Continuation of the current situation, without any project undertaken .
+Sub-step 1b. Consistency with mandatory laws and regulations:
+The project alternative, the baseline scenario, which is the continuation of the existing situation, is
+in compliance with all mandatory applicable and legal and regulatory requirements. Also the
+alternative scenario of addition of a new power generation capacity to the grid is regulated by
+Energy Market Regulatory Authority (EMRA) who issues the licenses for electricity generation
+and is responsible for ensuring that new capacity applies with its rules and regulations. The list of
+the rules and regulations of the host country that a new electricity generation project has to
+comply with is given in Annex 1.
+Outcome of Step 1b: The alternative scenario to the project activity is the supply of electricity by
+the existing grid with additional capacity is in compliance with mandatory legislation and
+Step 2 - Investment analysis
+At this step it will be demonstrated that “the proposed project activity is not the most economically
+or financially attractive" option. Please note that, at this step, the “Guidelines on the assessment
+of investment analysis” (EB 62 Report Annex 5) Version 05 is followed.
+Sub-step 2a - Determine appropriate analysis method
+There are three options for investment analysis method:
+•  Simple Cost Analysis
+•  Investment Comparison Analysis and
+•  Benchmark Analysis
+“Simple Cost Analysis” is not applicable for this project activity as the project generates economic
+benefits from sale of electricity to the Turkish national grid”. Investment Comparison Analysis is
+also eliminated since the baseline for the project is “the generation of electricity by the existing
+grid” and no similar investment alternatives exist. Therefore, Benchmark Analysis is the most
+appropriate approach for the evaluation of the project activity.
+Sub-step 2b - Option III-Apply benchmark analysis
+Internal Rate of Return (IRR) on equity is taken for this project to be the financial indicator for
+assessing the financial viability of the project activity..
+Equity IRR is the cash flow return to equity shareholders after debt repayments. And therefore
+also takes into account the debt repayments. Equity IRR takes into consideration that you use
+debt for the project, so the inflows are the cash flows required minus any debt that was raised for
+the project. The outflows are cash flows from the project minus any interest and debt repayments.
+To be able to assess the financial viability of the project a benchmark to compare the equity IRR
+is needed.
+The Tool for the Demonstration and Assessment of Additionality Version 7.0.0 (EB 70, Annex 8)
+and the Guidelines issued at EB 62 state that “...Discount rates and benchmarks shall be derived
+from: Government bond rates, increased by a suitable risk premium to reflect private investment
+and/or the project type, as substantiated by an independent (financial) expert or documented by
+official publicly available financial data”
+The Guidelines issued at EB 6210, provides the default values for the expected return on equity as
+an appendix, and Moody’s index values of most of the CDM Countries. At the time of investment
+decision (2007 see table 1), Turkey’s Moody’s index (Ba3-Stable11 between 2005 to 2009) was
+comparable to country’s with the same Moody’s index, and same default benchmark value from
+this point of view a rreasonable and appropriate benchmark to compare the Equity IRR can be
+taken as 12.75 %.
+Sub-step 2c - Calculation and comparison of financial indicators
+The following parameters are taken into account for the assessment of the investment (Table 5)
+and supplementary parameters are provided in the “MidilliFinancialAnalysis” workbook and
+submitted to the validating DOE.
+10 Annex 5 Guidelines on The Assessment of Investment Analysis (Version 05)
+11 http://countryeconomy.com/ratings/turkey
+Table 4: Major parameters taken into account for the financial analysis and determination of the
+Equity IRR of the Midilli HPP Project:
+Electricity Generation  activity page 6 and page 243 of revised feasibility
+Emission Reduction (ER)  the electricity production values.
+number 5346
+The value of the investment has been depreciated on a reducing balance basis over 20 years, 75
+% of the long lasting assets are depreciated over 45 years and the residual book value of
+23,527,547.55 USD is added back to the cash flow.  The economic life time of a hydro power
+plant investment is assumed to be about 50 years, based on the experts’ committee report12 on
+energy under the 8th development plan published by the State planning organization. Even if the
+facility can last for 50 years the major equipment needs to be replaced in every 20 years13. As a
+result the project lifetime is estimated to be about 20 years and the investment analysis is
+therefore done for a time frame of 20 years.
+For the assessment of the viability of the project activity the Equity IRR is compared to the
+benchmark. The equity IRR is worked out as 10.32 %, which is below the benchmark of 12.50%.
+Sub-step 2d - Sensitivity Analysis
+To be able to conclude if the investment decision is the financially the most attractive alternative
+or not, a sensitivity analysis is performed. Three parameters that affect the equity IRR are
+examined for the sensitivity analysis:
+•  Investment Cost
+•  Operating and Maintenance Cost
+•  Electricity Revenue
+12 http://ekutup.dpt.gov.tr/enerji/oik585.pdf page 4.25 (Last visited on 3/3/2011)
+13 http://ekutup.dpt.gov.tr/enerji/oik585.pdf page 4.26 (Last visited on 3/3/2011)
+The sensitivity analysis is performed for a range of ±10% fluctuations in the above parameters.
+The figures in the following table (Table 6) are obtained. Following the "Guidelines on the
+assessment of investment analysis (Version 05)" of EB 62 Annex 5 when any of the key variables
+are increased or decreased by at least 10%, and the benchmark is not exceeded (also see Figure
+Table 5: Sensitivity analysis for the Equity IRR without carbon revenue for the project (Benchmark:
+Figure 4: Sensitivity analysis: Fluctuation of the Equity IRR without the carbon revenue, by
+changing major parameters that effect the Equity IRR by ±10%
+To exceed the benchmark, the electricity revenue must increase by about 18.70 % over the life of
+the project, or the investment cost must be reduced by about 11.13 %. The Renewable energy
+law only guaranties a minimum price of USD 0.073 per kWh for renewable energy and the price ,
+and the price that was announced at the EMRA web site was approximately 6.4 US cents14,,
+indicating that our estimation for the renewable energy price was reasonable. However, we do not
+expect an increase in the electricity revenue related to a price increase and since the feasibility
+report and the design of the project is based on the maximum available capacity of the Yeşilırmak
+river, and since our entire financial analysis is based on the maximum net electricity output of the
+project, such an increase based on an increased amount of electricity generation is very unlikely.
+In addition to that as the availability of the water decreases due to the globally accepted results of
+global climate change, electricity production is very unlikely to reach to an increased generation
+amount of an additional 18.70 %. In addition to this the climate change models indicate for the
+14 The officially announced price for the time of investment decision was 9.67 ykrs/ kWh this converts to approximately 6.4 Dolar
+Cents. http://www.epdk.gov.tr/documents/elektrik/mevzuat/kurul_karar/elektrik/Elk_Tarife_Top_Sts_Tetas_2007.zip
+Mediterranean basin an increased drought and water scarcity that could even risk the project to
+reach the firm energy values.
+The investment costs we have considered in our financial analysis was based on the third party
+prepared revised feasibility report that was available to the project owner at the time of
+investment decision. Therefore these numbers are reasonable and reflect the average market
+conditions but are unlikely to go down, as the focus of the project developer is to secure and
+improve the electricity yield and therefore they will not be able to cut costs. Therefore it is very
+unlikely for the investment cost to finalize below the amounts estimated and shown in the
+financial analysis.
+Outcome of Step 2:
+Without the VER revenue the Internal Rate of Return of the project cannot get close to the
+benchmark of 12.50 %, with an equity internal rate of return of 10.32%. A fluctuation of ± 10% in
+the key parameters also does not make the project exceed the benchmark.
+Step 3 - Barrier Analysis
+As the investment analysis concludes that the proposed project activity is unlikely to be the most
+financially attractive option, the sub step 3- Barrier analysis is optional to be applied and barrier
+analysis is not considered for the Midilli HPP.
+Step 4: Common Practice Analysis
+Sub-step 4a. Analyse other activities similar to the proposed project activity
+As per “Tool for the Demonstration and Assessment of Additionality”, projects are considered
+similar if they are in the same country/region and/or rely on a broadly similar technology, are of a
+similar scale, and take place in a comparable environment with respect to regulatory frame-work,
+investment climate, access to technology, access to financing, etc. Although the tool does not
+consider the Sectoral Scope 1: Energy industries (renewable-/non -renewable sources) projects
+amongst the measures that can make use of the common practice guideline version 02, we
+preferred to utilise the same guideline to demonstrate that within the boundaries of the Yeşilırmak
+catchment (see Figure 5 for the borders of the differentiated geographical region) there are no
+similar projects that are developed and operational without the assistance of the VER revenue.
+According to the Guidelines on Common Practice (version 02), common practice analysis is
+presented through the following 4 steps.
+Common Practice tool Step 1: Calculate applicable output range as +/-50% of the design output
+or capacity of the proposed project activity:
+As a hydropower project, the installed capacity is chosen as an appropriate proxy for “similar
+scale”. The power generation capacity of 32.548 MW of the proposed project is selected as the
+design capacity. Therefore, the range from 16.274 to  48.82 MW is considered as applicable
+Outcome of Step 1: Applicable output range is 16.274 MW to 48.82 MW.
+Common Practice tool Step 2: identify similar projects (both CDM and non-CDM) which fulfil all of
+the following conditions:
+(a) The projects are located in the applicable geographical area;
+(b) The projects apply the same measure as the proposed project activity;
+(c) The projects use the same energy source/fuel and feedstock as the proposed project activity,
+if a technology switch measure is implemented by the proposed project activity;
+(d) The plants in which the projects are implemented produce goods or services with comparable
+quality, properties and applications areas (e.g. clinker) as the proposed project plant;
+(e) The capacity or output of the projects is within the applicable capacity or output range
+calculated in Step 1;
+(f) The projects started commercial operation before the project design document (CDM-PDD) is
+published for global stakeholder consultation or before the start date of proposed project activity,
+whichever is earlier for the proposed project activity15.
+The host country is geographically divided into 25 catchments as shown in the following figure
+(Figure 5). As can be seen from the figure the project site is located within the borders of the
+Yeşilırmak Catchment. Yeşilırmak and its major tributary Kelkit River constitute the Yeşilırmak
+River Catchment. Therefore we have considered the geographical boundary of our common
+practice analysis as the Yeşilırmak Catchment, and we have checked the hydropower plants that
+are operational, within the range defined in step 1 (16.274 MW to 48.82 MW) and located on the
+Kelkit or Yeşilırmak Rivers. These are listed on Table 6:
+Figure 5: The 25 Water Catchments areas identified in Turkey.16
+15 While identifying similar projects, project participants may also use publicly available information, for
+example from government departments, industry associations, international associations on the market
+penetration of different technologies, etc.
+16 Source: The longterm Catchment Management Plans of Turkey.
+Table 6: Power Plants that are operational on Yeşilırmak and Kelkit Rivers as of 11 April 2012 (as
+announced by the DSI as an answer to a question asked by a parliament member in the Turkish National
+Outcome of Step 2:
+There are 9 projects within the comparison range of the project activity.
+Step 3: within the projects identified in Step 2, identify those that are neither registered CDM
+project activities, project activities submitted for registration, nor project activities undergoing
+validation. Note their number N .
+The above list covers all the power plants within the geographical boundary defined above (as
+Yeşilırmak River Catchment). Checking all the power plants within the capacity range determined
+in Step 1, and looking projects that have started commercial operation before the start date of the
+project, and eliminating the ones that do claim VER credits, we end up with the following table
+(Table 7):
+Table 7 : The list of hydroelectric power plants that are identified to be counted in the N  list.
+Therefore the number of N  is 3.
+N =3
+17 http://www2.tbmm.gov.tr/d24/7/7-2933sgc.pdf
+Step 4: within similar projects identified in Step 3, identify those that apply technologies that are
+different to the technology applied in the proposed project activity. Note their number N .
+When we consider the project listed in Step 3, the projects differ from the project activity by the
+following aspects:
+Çamlıgöze HPP and Almus Dam are developed by the government so they were developed in a
+different economic setting or with different motivations:
+Yavuz HPP is a private owned project, that was developed by private sector, however the project
+activity was designed by DSI and was later auctioned and Masat Enerji  Elektrik Üretim ve Tic.
+Ltd. Şti. (Which is also the owner of the project activity that is subject to this Project Description
+Document) the present project owner won the auction.  At the time the Yavuz HPP was
+developed the project owner was not aware of Carbon finance and the leverage it brings to their
+projects. On the other hand, we know by the project investment expenditure data filed by the
+same owner that, it is revealed that the unit cost (cost per MW) of Yavuz has 68 % less than that
+of Midilli HPP therefore this project is also considered to be different than the project activity.
+Outcome of Common Practice tool  Step 4 is N =3
+Common Practice tool Step 5: Step 5: calculate factor F=1-Ndiff/Nall representing the share of
+similar projects (penetration rate of the measure/technology) using a measure/technology similar
+to the measure/technology used in the proposed project activity that deliver the same output or
+capacity as the proposed project activity.
+F=1-N /N
+diff all
+Conclusion of Common Practice tool version 2.0 (EB 69 Report Annex 8):
+The proposed project activity is a “common practice” within a sector in the applicable
+geographical area if the factor F is greater than 0.2 and N -N  is greater than 3
+all diff
+Factor F is calculated to be 0 < 0.2.
+N -N =3-3=0 <3 in that case the Midilli HPP is not common practice.
+all diff
+Conclusion: In conclusion the proposed project is deemed to be additional according to
+ACM0002 and the tool and guideline for the demonstration and assessment of additionality.
+2.6  Methodology Deviations
+The UNFCCC methodology of ACM0002/ Version 14.0.0 and its related tools have been applied
+without many deviations.
+With the exception of the below Monitoring parameter :
+The rational for this can be explained as follows:
+Although the methodology (ACM002, v.14.0.0) requires reservoir area to be monitored, since the
+power density of the project activity is very large, and the area flooded due to the project activity
+cannot exceed the above given amount (26,000 m2; See also Annex-5: The Map Showing the
+Reservoir Area of the Project Activity on page 75), the parameter related to the reservoir area is
+not going to be monitored during the crediting period for Midilli HPP Project.
+3  QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS
+3.1  Baseline Emissions
+According to the latest version (version 14.0.0) of ACM0002 and the tool to calculate the emission
+factor for electricity system, since the project activity is the installation of a new grid-connected
+renewable power plant/unit, the baseline scenario is the following:
+otherwise been generated by the operation of grid-connected power
+plants and by the addition of new generation sources, as reflected in the
+combined margin (CM) calculations described in the “Tool to calculate
+the emission factor for an electricity system” (version 04.0.0 (EB 75,
+Annex 15)).
+The Project therefore applies the combined margin (CM) calculations described in the “Tool to
+calculate the emission factor for an electricity system” (version 04.0.0 (EB 75, Annex 15)).
+Step 1 -Identify the relevant electricity systems
+As the host country is not participating in the compliance markets hence does not have a DNA, a
+delineation of the project electricity system and connected electricity systems has not been
+published yet. For such cases, the tool suggests using the following criteria to determine the
+existence of significant transmission constraints:
+1.  “In case of electricity systems with spot markets for electricity: there are differences in electricity
+prices (without transmission and distribution costs) of more than 5 percent between the systems
+during 60 percent or more of the hours of the year.” This criteria is not applicable as there is no
+spot electricity market in the host country.
+2.  “The transmission line is operated at 90% or more of its rated capacity during 90% percent or
+more of the hours of the year”: The transmission line operator (TEIAS) or any other official source
+has not published the capacity usage figures for the Turkish grid, hence this criterion can not be
+According to the tool, where the application of these criteria does not result in a clear grid
+boundary, a regional grid definition in the case of large countries with layered dispatch systems
+(e.g. provincial / regional / national) shall be used. A provincial grid definition may indeed in many
+cases be too narrow given significant electricity trade among provinces that might be affected,
+directly or indirectly, by a CDM project activity. In other countries, the national (or other largest)
+grid definition should be used by default.
+Therefore, for the case of the subject project activity “the project electricity system” and “the
+connected system” are same, and the Turkish National Grid is used as the “project electricity
+system”. It is also confirmed by TEIAS that the Turkish grid is interconnected. There isn’t any
+independent or regional grid system in any region of Turkey. The map of the Turkish Electricity
+Grid is given in the below figure (Figure 7):
+Figure 6: The Map showing the boundaries of Turkish Electricity Grid  (Source Electricity Market
+Report 2010, by Electricity Market Regulatory Authority
+All the calculations details of which are given below are made for the entire Turkish Grid.
+For the purpose of determining the operating margin emission factor, the tool directs us to use
+one of the following options to determine the CO2 emission factor(s) for net electricity imports
+from a connected electricity system:
+(a) 0 t CO2/MWh; or
+(b) The simple operating margin emission rate of the exporting grid, determined as described in
+Step 4 section 6.4.1, if the conditions for this method, as described in Step 3 below, apply to the
+exporting grid; or
+(c) The simple adjusted operating margin emission rate of the exporting grid, determined as
+described in Step 4 section 6.4.2 below; or
+(d) The weighted average operating margin (OM) emission rate of the exporting grid, determined
+as described in Step 4 section 6.4.4 below.
+For imports from connected electricity systems located in Annex I country(ies), the emission
+factor is 0 tons CO  per MWh.
+And the tool also notes that the …”Electricity exports should not be subtracted from electricity
+generation data used for calculating and monitoring the electricity emission factors.”
+In our case the host country (imports electricity mainly from Annex -1 countries, so the emission
+factor related to imports is considered to be zero”0”.
+Step 2 - Choose whether to include off-grid power plants in the project electricity system
+The tool requires Project participants to choose between the following two options to calculate the
+operating margin and build margin emission factor:
+Option I: Only grid power plants are included in the calculation.
+Option II: Both grid power plants and off-grid power plants are included in the calculation.
+In our case, “Option I” has been selected for the calculation of grid emission factor, and only grid
+power plants are included in the calculation.
+Step 3 – Select an operating margin (OM) method
+According to the  “Tool to calculate the emission factor for an electricity system‟, version 03.0.0 in
+calculating the Operating Margin grid emission factor for a given year y (EF ), project
+grid,OM, y
+developers have the option of selecting from four methods:
+(a) Simple OM,
+(b) Simple adjusted OM,
+(c) Dispatch Data Analysis OM, or
+(d) Average OM.
+As the share of “low cost/must run” resources are below 50% for the five most recent years
+(Table 8), therefore, in accordance with the Tool, (a) Simple OM method will be used in the
+Table 8: Share of primary sources in electricity generation, 2008 – 201218
+Wind &
+Geothermal  2.36%
+Since the Simple OM calculation (option (A)) is selected, the emission factor is calculated by the
+generation-weighted average emissions per electricity unit (tCO /GWh), and averaged over the
+past three years of all generating sources serving the system, not including low-cost / must run
+power plants. The tool gives two options for the calculation of EF ;
+grid, OM, y
+•  Ex-ante option
+A 3-year generation-weighted average, based on the most recent data available at the time of
+submission of the VER-PDD to the DOE for validation, without the requirement to monitor and
+recalculate the emissions factor during the crediting period, or
+•  Ex-post option
+The year in which the project activity displaces grid electricity, with the requirement that the
+emission factor be updated annually during monitoring.
+18 Annual Development of Installed Capacity Generation in Turkey (1970-2012)
+For the calculation of the Simple OM, the “Ex-Ante” option is selected, at the time of PDD
+submission to the DOE, the data vintages that were most recent at the start of validation, belongs
+to the years 2010, 2011 and 2012. All the data used in calculation of the Simple OM are taken
+from the TEIAS website, details of which are given below.
+Step 4 - Calculate the operating margin emission factor according to the selected method
+The Simple OM emission factor is calculated as the generation-weighted average CO  emissions
+per unit of net electricity generation (tCO /MWh) for all generating power plants serving the
+system, not including low-cost / must run plants / units. It may be calculated:
+•  Option B: Based on the total net electricity generation of all power plants serving the system and
+the fuel types and total fuel consumption of the project electricity system.
+The following data are available from the Turkish Electricity Transmission Company (TEİAŞ) web
+•  Annual fuel consumption by fuel type19,
+•  Annual heating values for fuels consumed for electricity generation20,
+•  Annual electricity generation by fuel type, import and export21
+Taking into consideration the available data Simple OM method Option B is the applicable
+method for the project activity. Option A requires data on net electricity generation of each power
+plant / unit and a CO  emission factor of each power unit, both of which are not publicly available,
+for the Turkish electricity grid.
+EF , using option B is calculated based on the net electricity supplied to the grid by all
+power plants serving the system, not including low-cost / must-run power plants / units, and
+based on the fuel type(s) and total fuel consumption of the project electricity system, as follows:
+EF = Simple operating margin CO  emission factor in year y (tCO /MWh)
+grid, OM simple,y  2 2
+FC  = Amount of fossil fuel type i consumed in the project electricity system in year y (mass or
+volume unit)
+NCV  = Net calorific value (energy content) of fossil fuel type i in year y (GJ/mass or volume unit)
+19 Fuel Consumed in thermal P.P.in Turkey by the Electric Utilities (2006-2012) http://www.teias.gov.tr/TürkiyeElektrikİstatistikleri/istatistik2012/yakıt48-53/49.xls
+20 Heating Values Of Fuels Consumed In Thermal P.Ps In Turkey By The Electric Utilities (2006-2012),
+21 Annual Development of Turkey’s Gross Electricity Generation by Primary Energy Resources and The Electricity Utilities (2006-2012)) /
+(http://www.teias.gov.tr/TürkiyeElektrikİstatistikleri/istatistik2012/uretim%20tuketim(23-47)/42(06-12).xls)/ Annual Development of Electricity Generation-
+Consumption and Losses in Turkey (1984-2012), (http://www.teias.gov.tr/TürkiyeElektrikİstatistikleri/istatistik2012/uretim%20tuketim(23-47)/34(84-12).xls)
+CO2,i,y 2 2
+EG  = Net electricity generated and delivered to the grid by all power sources serving the system,
+not including low-cost/must-run power plants/units, in year y (MWh)
+i = All fossil fuel types combusted in power sources in the project electricity system in year y
+y = The relevant year as per the data vintage chosen in Step 3
+Step 5 - Calculate the build margin (BM) emission factor:
+The tool indicates that, in terms of vintage of data, project participants can choose between one
+of the following two options:
+Option 1: For the first crediting period, calculate the build margin emission factor ex ante based
+on the most recent information available on units already built for sample group m at the time of
+CDM-PDD submission to the DOE for validation. For the second crediting period, the build margin
+emission factor should be updated based on the most recent information available on units
+already built at the time of submission of the request for renewal of the crediting period to the
+DOE. For the third crediting period, the build margin emission factor calculated for the second
+crediting period should be used. This option does not require monitoring the emission factor
+during the crediting period.
+And ,
+Option 2: For the first crediting period, the build margin emission factor shall be updated
+annually, ex post, including those units built up to the year of registration of the project activity or,
+if information up to the year of registration is not yet available, including those units built up to the
+latest year for which information is available. For the second crediting period, the build margin
+emissions factor shall be calculated ex ante, as described in Option 1 above. For the third
+crediting period, the build margin emission factor calculated for the second crediting period
+should be used.
+We prefer the Option 1, calculating the Build Margin Emission factor, “ex ante”, for the first
+crediting period.
+The sample group of power units m used to calculate the build margin are determined as per the
+following procedure, consistent with the data vintage selected above:
+a)  Identify the set of five power units, excluding power units registered as CDM project activities,
+that started to supply electricity to the grid most recently (SET ) and determine their annual
+electricity generation (AEG , in MWh);
+b)  Determine the annual electricity generation of the project electricity system; excluding power units
+registered as CDM project activities (AEG , in MWh). Identify the set of power units, excluding
+power units registered as CDM project activities, that started to supply electricity to the grid most
+recently and that comprise 20% of AEG  (if 20% falls on part of the generation of a unit, the
+generation of that unit is fully included in the calculation) (SET ) and determine their annual
+electricity generation (AEG , in MWh);
+5-units ≥20%
+electricity generation (SET ); Identify the date when the power units in SET  started to
+sample sample
+supply electricity to the grid. If none of the power units in SET  started to supply electricity to
+the grid more than 10 years ago, then use SET  to calculate the build margin.
+According to the tool in terms of vintage of data, project participants can choose either the ex-
+ante option or the ex-post option. Between these two options, Option 1 is selected. For the first
+crediting period, the build margin emission factor is calculated ex-ante based on the most recent
+information available on units already built for sample group m at the time of CDM-PDD
+submission to the DOE for validation. For the second crediting period, the build margin emission
+factor will be updated based on the most recent information available on units already built at the
+time of submission of the request for renewal of the crediting period to the DOE. For the third
+crediting period, the build margin emission factor calculated for the second crediting period will be
+used. This option does not require monitoring the emission factor during the crediting period.
+The build margin emissions factor is the generation-weighted average emission factor
+(tCO /MWh) of all power units m during the most recent year y for which power generation data is
+available, calculated as follows:
+EF  = Build margin CO2 emission factor in year y (tCO /MWh)
+grid,BM,y  2
+EG       = Net quantity of electricity generated and delivered to the grid by power unit m
+in year y (MWh)
+EL,m,y   2 2
+m      = Power units included in the build margin
+y      = Most recent historical year for which electricity generation data is available
+According to the tool, the CO emission factor of each power unit m (EF ) should be
+2  EL,m,y
+determined as per the guidance in step 4 (a) for the simple OM, using options A1, A2 or A3, using
+for y the most recent historical year for which power generation data is available, and using for m
+the power units included in the build margin. Taking into consideration the available data on the
+capacity additions, the formula given under Option A2 of the Simple OM option A is used to
+calculate EF .
+The CO  emissions from the most recent capacity additions are calculated by multiplying the
+EF  values calculated for each fuel source by the annual generation of that fuel source (Table
+15). The emission factor has been taken as “zero” for the renewable and wastes and the
+generation efficiencies for the thermal power plants type of which are not known are taken as
+60% which is generation efficiency for the combined cycle natural gas power plants. The Build
+Margin Emission Factor for each year is calculated by dividing the total CO  Emissions of the
+subject year by the total generation from the capacity additions of the same year.
+The Build Margin Emission Factor of the grid is then calculated as an average for the years 2010
+and 2011, as explained in the part where the actual calculations are shown, the assessed
+capacities added in these two years constitutes our SET
+Step 6 - Calculation of the combined margin emissions factor
+Finally, the combined margin grid emission factor (EF ) is expressed as the weighted
+average of the Operating Margin emission factor (EF ) and the Build Margin emission factor
+(EF ):
+EF   Build margin CO emission factor in year y (tCO /MWh)
+grid,BM,y 2  2
+EF   Operating margin CO emission factor in year y (tCO /MWh)
+grid,OM,y 2  2
+w     Weighting of operating margin emissions factor (%)
+w     Weighting of build margin emissions factor (%)
+OM BM
+And EF and EF  are calculated as described in the previous steps.
+OM  BM
+Then baseline emissions (BE ) are obtained as:
+y 2
+the grid as a result of the implementation of the CDM project
+activity in year y (MWh/yr)
+grid,CM,y  2 2
+EG = EG
+PJ,y facility,y
+to the grid in year   (MWh/yr)
+The ex-ante emission reductions (ER ) are calculated as follows:
+ER = BE −PE
+y y y
+y 2
+y 2
+,y 2
+As methodology states the PEy in case of a hydro power project with a power density > 10 W/m2
+3.2  Project Emissions
+As the methodology states the PEy in case of a hydro power project will be calculated:
+“Emissions from water reservoirs of hydro power plants (PE )
+For hydro power project activities that result in new reservoirs and hydro power project activities
+that result in the increase of existing reservoirs, project proponents shall account for CH  and CO
+4 2
+emissions from the reservoir, estimated as follows:”
+“...the power density of the project activity (PD) is greater than 4 W/m2 and less than or equal to
+10 W/m2:”
+The project has a power density of 1251.85  W/m2 therefore.
+PE =0
+PE   Project emissions from water reservoirs (tCO e/yr)
+HP,y 2
+Although there will be an emergency/back up diesel generator installed within the project
+boundary, the emissions from these have been deemed negligible as per the ACM0002 (version
+14.0.0) methodology, since it will be solely utilized in case of an emergency, such as a power
+In addition to this Although the methodology (ACM002, v.14.0.0) requires reservoir area to be
+monitored, since the power density of the project activity is very large, and the area flooded due
+to the project activity cannot exceed the above given amount (26,000 m2; See also Annex-5: The
+Map Showing the Reservoir Area of the Project Activity on page 75), the parameter related to the
+reservoir area is not going to be monitored during the crediting period for Midilli HPP Project.
+3.3  Leakage
+There are no leakage emissions related to project activity.
+3.4  Net GHG Emission Reductions and Removals
+Ex-ante calculation of emission reductions:
+Simple Operating margin (OM)
+As also explained above, for the computation of the Simple OM, the Ex-Ante option is selected, at
+the time of PD submission to the DOE, the data vintages that were most recent, belongs to the
+years 2010, 2011 and 2012. All the data used in calculation of the Simple OM are taken from the
+TEİAŞ website, details of which are given below. Taking into account the available data “Simple
+OM” method “Option B” is the appropriate method for the project activity. TEİAŞ publishes the
+annual heating values of the fuels consumed in the power plants, the heating values are directly
+related to fuel consumption and are used to calculate average Net Calorific Values (TJ/kt) (Table
+The heating values of fuels consumed in thermal power plants are announced by TEİAŞ, the unit
+of the heating values are Tcal. Tcal is converted to GJoule by using the conversion factor 1cal =
+4.1868 Joule. Then the heating values in GJ are divided by Fuel Consumption (FC ) to get the
+Net Calorific Values of the fuels consumed in TJ/kt as follows:
+Table 9: Net Calorific Values for each fuel type for Turkey
+The emission factors of fuels required are taken from IPCC 2006 guidelines for GHG
+inventories22. All data used for the calculations can be found in Annex-2 (See Table 1 and Table 2
+in Annex -2). Table 10 shows total CO emission by fuel types calculated using lower IPCC
+emission factors and available data from the TEİAŞ website.
+Table 10: Calculation of emission by electricity generation (2010-2012)
+22 Table 2.2.Default Emission Factors for Stationary Combustion in the Energy Industries, Vol.2. Energy, 2006 IPCC Guidelines for
+National Greenhouse Gas Inventories, (http://www.ipcc-
+Net electricity generated and supplied to the grid by thermal power plants has been calculated
+using data obtained from TEİAŞ web page. The ratio between total gross and total net generation
+(including low-cost/must run plants) has been calculated for each year. The same ratio is
+assumed to be valid for all thermal plants and total net generation by the plants has been
+calculated accordingly. Summing up total net generation with the imported electricity, total supply
+excluding low cost / must run sources for each year is determined and given in Table 11.
+Table 11: Net Electricity Generation from thermal power plants (units in GWh)
+The OM Emission Factor for the years 2009, 2010 and 2011 are calculated by dividing the total
+CO  emissions for those years (Table10) to the Net Electricity Generation (Table 12) for the
+subject year. The annual OM emission factors are calculated as follows (Table 13):
+Table 12: Annual OM Emission Factors
+2010  0.65670
+2011  0.66227
+2012  0.72007
+Finally, OM emission factor is calculated as a generation weighted average for the three most
+recent years. The resulting OM Emission Factor is;
+EF  =0.68084
+Build Margin (BM)
+As mentioned above we have preferred the Option 1, calculating the Build Margin Emission
+factor, “ex ante”, for the first crediting period.
+The sample group of power units m used to calculate the build margin are determined as per the
+following procedure, consistent with the data vintage selected above:
+a)  Identify the set of five power units, excluding power units registered as CDM project activities
+that started to supply electricity to the grid most recently (SET ) and determine their
+annual electricity generation (AEG , in MWh);
+b)  Determine the annual electricity generation of the project electricity system; excluding power
+units registered as CDM project activities (AEG , in MWh). Identify the set of power units,
+excluding power units registered as CDM project activities, that started to supply electricity to
+the grid most recently and that comprise 20% of AEG  (if 20% falls on part of the
+generation of a unit, the generation of that unit is fully included in the calculation) (SET )
+and determine their annual electricity generation (AEG , in MWh);
+5-units ≥20%
+electricity generation (SET ); Identify the date when the power units in SET  started to
+sample sample
+supply electricity to the grid. If none of the power units in SET  started to supply electricity
+to the grid more than 10 years ago, then use SET  to calculate the build margin.
+From a source by the host country licencing body we have determined the commissioning dates
+of the units in 2012. Accordingly  the amount of electricity produced by the newly added 5 units or
+the SET are shown in the below table (Table 13):
+Table 13: The List of the recently added five units to the host country that makes up the SET
+Source: http://www.enerji.gov.tr/yayinlar_raporlar/2012_Yili_Enerji_Yatirimlari.xls
+The net electricity generation in year 2012 is taken as reference for determination of plants that
+comprise 20% of the system generation.  Based on Turkey’s Annual Electricity statistics
+published on the TEIAŞ web site (www.teias.gov.tr) , the net generation in year 2012 was
+227,707.3 GWh (See Table 11, in 2012, out of this amount 13,629.40 GWh was identified24 to be
+produced by projects that claimed VERs, excluding this number from the net generation we end
+is calculated as  42,815.58 GWh.
+As AEG only produces 851 GWh, a number which is much less than 20% of AEG , it
+SET-5-units  TOTAL
+is therefore obvious that 20% of AEG , is higher than AEG
+TOTAL SET-5-units.
+additions in the recent years, and used as AEG  to calculate Build Margin Emission Factor.
+23 NGCCP: Natural gas combined cycle plant
+24 A list of units providing electricty to the year 2011 Turkish Electricity Grid is provided as an Annex 1 to the most recent Capacity
+Projection report published by TEIAS (http://www.teias.gov.tr/KAPASITEPROJEKSIYONU2012.pdf). We have checked and
+identified the units that have claimed VERs by comparing the list to the Gold Standard registry
+(https://gs2.apx.com/myModule/rpt/myrpt.asp?r=111) and VCS Project Database (http://www.vcsprojectdatabase.org). This list is
+provided to the validating DOE.
+Summing up the electricity generations of all the plants added to the Turkish National Grid in
+2012, 2011, and adding up those power plant units added in 2010 between 7th of October to 31st
+of December 2010 to reach the  20% of AEG , but excluding the projects that claimed VERs,
+the total generation in this period (7 October 2010 to 31 December 2012) up to  46,608.08 GWh.
+The total generation by the power plants added in year 2012 is  13,787.45 GWh. This number is
+still smaller than the AEG value of 46,608.08 GWh. Therefore, to reach the AEG  all
+SET 20%  SET 20%
+the units added in year 2011  are also added, which is 15,454.53 GWh. Yet the sum of year 2012
+and 2011 generation is still less than the AEG  (13,787.45 +15,454.53= 29,241.98 GWh<
+SET 20%
+42,815.58 GWh). So when we start adding the units added in year 2010, starting with the recent
+most ones we come up to 9,826.11 GWh, which is less than the gap to fill the gap upto AEG
+so we added a natural gas powered power plant, producing 7540 GWh (which is more than
+the  amount needed [3746.91 GWh] but we needed to take the entire units generation as implied
+SET Sample
+we are using in our BM calculation reached up to 46,608.08 GWh and this number is greater than
+the 20% of the total generation, So only the power plants added in the last 27 months, excluding
+those claiming VER credits, are used in the calculations. As there is no power unit older than 10
+years this number is being used for Build Margin Calculations.
+The lists of most recent capacity additions to the grid by year and their average and firm
+generation capacities for the years 2010, 2011 and 2012 are available as Annex-2 to the capacity
+projection reports published in the TEIAS web page. Although the annual generation capacity
+data for each plant is not available on the statistics page of TEİAŞ. The data for the years 201225,
+201126 and 201027 are taken from the TEİAŞ Capacity Projection Reports which are also
+available in another section of the TEİAŞ website. For the capacity additions, the firm generation
+capacities of the power plants are used. The units that are taken out of the grid are not taken into
+consideration. All the data used for calculations can be found in Annex-2 (see Table 8a and
+According to the tool in terms of vintage of data, a project participant can choose either the ex-
+ante option or the ex-post option. As explained above, out of these two options, Option 1 is
+selected. For the first crediting period, the build margin emission factor is calculated ex-ante
+based on the most recent information available on units already built for sample group m at the
+time of CDM-PDD submission to the DOE for validation. For the second crediting period, the build
+margin emission factor will be updated based on the most recent information available on units
+already built at the time of submission of the request for renewal of the crediting period to the
+DOE. For the third crediting period, the build margin emission factor calculated for the second
+crediting period will be used. This option does not require monitoring the emission factor during
+the crediting period.
+25 TEIAŞ Capacity Projection Report 2013- 2017
+26 TEİAŞ Capacity Projection Report 20010-2019
+27 http://www.teias.gov.tr/projeksiyon/KapasiteProjeksiyonu2011.doc
+Electric efficiency rates
+There is no complete and up-to-date data regarding the electrical efficiency of thermal power
+plants that supply electricity to the Turkish National Grid system. Therefore the default values
+provided in Annex 1(Default efficiency factors for power plants)  of the Methodological Tool to
+calculate the emission factor for an electricity system (Version 04.0.0) (EB 75; Annex 15) is
+utilised, in a very conservative manner, considering that we are unable to differentiate the units
+that were commissioned before year 2000, and we cannot differentiate their technologies, all the
+coal and lignite fired thermal power plants are considered to operate with 50% efficiency, all the
+oil fired power plants are considered to operate with 46% efficiency, and all the Natural Gas fired
+power plants are considered to operate at 60 % efficiency. For the diesel powered thermal power
+plants the efficiency is considered to be 46%. Since the default values are not provided for
+Naphtha, it is considered to behave like oil and its efficiency is considered as 46%, and Bitumen
+is considered to behave like coal and its efficiency is considered to be 50%. The efficiency values
+considered in BM calculations can be summarized as follows (Table 14):
+Table 14: Default Electric efficiency rates taken from Annex 1 of the Methodological Tool to calculate the
+emission factor for an electricity system (Version 04.0.0) (EB 75 Report Annex 15).
+Fuel Type   Average Electric efficiency rate
+Lignite  50.0%
+Diesel  46.0%
+Natural Gas  60.0%
+The parameters for the calculation of EF , and its calculation is shown in Table 15 below:
+Table 15: Calculation of EF  generation efficiency based on the default values provided in Annex
+1 of the Methodological Tool to calculate the emission factor for an electricity system (Version
+4.0.0) (EB 75 Report Annex 15)
+2 EL,m,y
+Efficiency %  tCO /MWh
+The CO  emissions from the most recent capacity additions are calculated by multiplying the
+EF  values calculated for each fuel source by the annual generation of that fuel source (Table
+16). The emission factor has been taken as “zero” for the renewable and wastes. The Build
+Margin Emission Factor for each year is calculated by dividing the total CO  Emissions of the
+subject year by the total generation from the capacity additions of the same year.
+Table 16 Annual CO  Emissions for Capacity Additions and Annual BM Emission Factors
+The Build Margin Emission Factor of the grid is then calculated as a generation weighted average
+for the years 2010,2011 and 2012. The resulting BM Grid is:
+EF  = 0.34716 tCO /MWh
+grid,BM 2e
+Combined margin emission factor
+OM BM
+OM BM
+Based on the formula above, baseline emission factor is calculated as;
+EF  = 0.50 * 0.68084 tCO /MWh + 0.50 * 0.34716 tCO /MWh = 0.5140016 tCO /MWh
+y 2e 2e 2e
+Emission reductions
+y facility,y
+2e 2e
+A summary of the GHG removals by the project activity is given as follows (Table 17):
+Table 17: summary of the GHG removals by the project activity
+4  MONITORING
+4.1  Data and Parameters Available at Validation
+The following are the data and parameters available at validation:
+
+28 http://www.teias.gov.tr/projeksiyon/KAPASITE%20PROJEKSIYONU%202010.pdf
+29 http://www.teias.gov.tr/projeksiyon/KAPASITEPROJEKSIYONU2011.pdf
+30 http://www.teias.gov.tr/KAPASITEPROJEKSIYONU2012.pdf
+4.2  Data and Parameters Monitored
+The following are the data that will be available during the monitoring.
+31 PMUM/MFRC Piyasa Mali Uzlaştırma Merkezi / Market Financial Reconciliation Center.
+32 The latest version of the communiqué (in Turkish) can be found in the following link: http://www.epdk.gov.tr/web/elektrik-piyasasi-
+33 PMUM/MFRC Piyasa Mali Uzlaştırma Merkezi / Market Financial Reconciliation Center.
+4.3  Monitoring Plan
+Objectives of the monitoring program
+The Monitoring plan is developed to ensure that the Project Activity is well organized from the
+start in terms of the collection and archiving of complete and reliable data that is needed to
+ensure reliable and accurate measurements of actual emission reductions.
+Data to be monitored
+Given that the emission factor is calculated on an ex-ante basis, the first data to be monitored is
+the electricity net supplied to the grid.
+The second data to be monitored is the installed capacity of the Project Activity. Using the
+SCADA system installed capacity will be measured automatically.
+Monitoring procedures
+The monitoring will be conducted by the Verified Emission Reduction (VER) Monitoring Team.
+The VER Team Members, and their position and duties for the monitoring is outlined in the
+following table (Table 18):
+Table 18: Positions and responsibilities of the VER monitoring team members.
+34 The latest version of the communiqué (in Turkish) can be found in the following link: http://www.epdk.gov.tr/web/elektrik-piyasasi-
+The power imported from the grid and exported to the grid is recorded continously via two
+bidirectional meters located at Yenidere Transformation Station that belongs to the Grid operator
+The total electricity import and the total electricity export of the project activity is measured via two
+meters that measure the generation over two feeders that carry electricity from the power house
+to the Yenidere Transformation station via a short cable. The data is measured continously and
+recorded on an hourly basis to the PMUM/MFRC servers.
+Data can be accessed remotely via the Automated Meter Reading Software installed to the
+project owners computers, but is continously recorded to the PMUM/MFRC servers.
+Each month the internal and external consumption recorded hourly by the meters are extracted
+and saved onto excel spread sheets, for each meter..
+Data used for the calculation of EG EG parameters are the summation of
+PP-self consumption, y  PP-gross, y
+the outputs provided via two meters, Midilli Ana-1 and Midilli Ana-2.  The PMUM/MFRC servers
+automatically calculate the overall grid loss of the country and reflect it in the monthly meter
+reading outputs of each meter, along side with the direct meter readings. The amount indicated
+with loss are not used in the emission reduction calculations as the loss calculated by the grid
+operator is beyond the project boundary.
+Monitoring equipment
+Electricity meters
+The main and back-up electricity meter will be bi-directional for quantifying the electricity
+delivered by the Project Activity to the grid.
+The meters will be in compliance with the standards of the Turkish Standards Institute and will
+have obtained a “Type and System Approval” certificate from the Ministry of Trade and Industry.
+In case there are modifications to the standards, the modified standard shall be valid; and in case
+a valid standard is cancelled or abolished, the new standard shall be valid. The standards that will
+be used are TS-620 EN 60044-1 and TS718 IEC60044.2 for main and back-up meters,
+respectively. The sensitivity of the main and secondary meters are CI = 0.5S for active and
+reactive energy. The meters shall be factory calibrated by the manufacturer before installation.
+Records of the meter (type, made, model and calibration documentation) will be retained in the
+quality control system.
+Data collecting and recording
+I. The net electricity generation by the project activity. Based on the baseline scenario presented
+above, this amount of electricity would have been produced by the Turkish National Grid.
+The electricity produced will be sold to TEİAŞ. Therefore, TEİAŞ measures the electricity
+produced as the summation of two main meters and two Back-up meters:
+a.  Main Electricity Meter-1: ELSTER A1500 SL761: -Serial Number: 464220
+b.  Main Electricity Meter-2: ELSTER A1500 SL761: -Serial Number: 464222
+c.  Back-up Electricity Meter-2: ELSTER A1500 SL761: -Serial Number: 464221
+d.  Back-up Electricity Meter-2: ELSTER A1500 SL761: -Serial Number: 464223
+These meters are placed at the TEIAŞ Yenidere TM (Transformer Station). The Summation of the
+data recorded by the Main meter 1 and 2 will provide official data which will be remotely read
+remotely and recorded continously to the PMUM/MFRC serves for invoicing. TEİAŞ also
+conducts the calibration and maintenance of these meters and thus, ensures the accuracy and
+quality of the measurements. The quality standards that the meters need to comply is “The
+ICE/TSE 62053-22: Electricity metering equipment (a.c) – Particular requirements - Part 22:
+Static meters for active energy (Classes 0,2 S and 0,5 S)” The calibration of the meters are done
+and the meters will be checked continuously if there is a difference of ±0.5 % in the readings of
+the main and the back-up meters, the calibration is repeated.
+At the end of each month, the monthly generation will be accessed remotely via the
+PMUM/MFRC web site by the Project owners account manager to determine the invoiced
+generation amount. In case of failure of any of the main meters, their relevant control meters are
+used to determine the invoiced generation amount.
+The net electricity produced (EG ) in year y is calculated by subtracting the total electricity
+PP-net, y
+consumed by the hydroelectric power plant (EG ) , from the gross electricity
+PP-self consumption, y
+generation (EG ) . After obtaining the net electricity production value, the emission
+PP-gross, y
+reductions will be calculated by multiplying the net electricity with the Ex-ante Combined Margin
+Emission Factor calculated above.
+Measuring Installed Capacity
+By means of the SCADA system established in the plant all kinds of technical parameters related
+with turbines and generators including installed capacity will be measured and stored in the
+system on real time basis. The installed capacity of the plant will be measured from SCADA once
+a year while the plant is operated with full load and the related data will be stored as per the
+monitoring program.
+Data management
+At the end of each month, electricity supplied to the grid will be transferred into an electronic
+spread sheet titled raw data, so that it can be processed for verified emission reduction
+calculations.  The data to be measured for installed capacity will be entered into an electronic
+spread sheet at the end of each year. The electronic files will be backed up on both hard drives
+and on a Compact Discs (CD).
+Quality Control and Assurance (QC/QA)
+All of the main and back-up meters located at Yenidere TM (Transformation Station) are owned
+and installed by the grid operator, TEIAS. The Project Owner has signed an agreement with the
+grid operator to specify the QA procedure for measurement and calibration to ensure the
+measurement accuracy of the main and back-up meters are in compliance with national
+regulations. The Calibrations of the electricity meters are valid for the next 10 years after
+The grid operator's Metering Officer should be notified of any failure of one of the meters. TEIAS
+is the only one entity, authorized to deal with fixing, calibrating, or changing the meters, which will
+be done either by the grid operator or by a company authorized by the grid operator. The Project
+Owner will keep electricity export and import records via the meters that are located at the
+powerhouse, to which the recorded data will be compared.
+All written documentation such as maps, drawings, the EIA and the Feasibility study, will be
+stored and will be made available to the verifier so that the reliability of the information may be
+All the data and documentation related to the verification will be archived for minimum two years
+after the end of the first crediting period.
+5  ENVIRONMENTAL IMPACT
+In accordance with “Environmental Law” No. 2872 (Issued in 1983), Annex 2 of Environmental
+Impact Assessment (EIA) Regulation (issued in 1993 and revised in 2001), run-of-river type HPPs
+with an installed capacity of 50 MW or less are not subject to  full EIA investigation or report
+preparation. Instead, for these types of projects, a preliminary EIA report including general
+information about the project site and general project characteristics was submitted to local
+Branch of The Ministry of Environment and Forestry (Later the tittle of the ministry changed as
+Ministry of Environment and Urban Planning). At the end of the review of the report, the Ministry
+issued a certificate stating that “there is no need for an EIA report”.
+Some possible environmental impacts during construction and operating phases stated in the
+preliminary EIA are summarized in the following:
+Other hazardous waste materials such as used tires, used batteries, cables, paint, barrels, oil
+contaminated soil, oil preserving filters, etc., will be piled in a designated are on site temporarily in
+accordance with Control of Hazardous Waste Directive which was published in the Official
+Gazette dated March 14th, 2005 and numbered 25755 and will ultimately be transported to the
+nearest hazardous waste recycling or discharge plants.
+As there was no settlement in the reservoir area, resettlement was not needed for the Project
+6  STAKEHOLDER COMMENTS
+Since the project activity was less than 50 MW, the host country regulations didn’t request the
+project activity to perform a full EIA. Therefore there was not a stake holder consultation meeting
+held within the framework of an SEIA. However, in order to explain the issues related to the
+project and especially in order to inform the land owners about the expropriation process the
+Energy Market Regulatory Agency have organized a stake holder’s consultation meeting.
+When we have visited the site to collect information for the Social Carbon Standard Point Zero
+Report, we have contacted the village heads (muhtars) of the nearby settlements and we have
+talked with the local government officers who are in charge of the issues like environmental
+To be able to confirm the occurrence of the mentioned EMRA organized, expropriation related
+stake holder consultation meeting, we asked about this to the Muhtar’s. Mr Muharrem Kelce, the
+Muhtar of the Kızılkışlacık village, explained us that there really occurred one such meeting to
+explain the project’s aspects and the expropriation process that would effect their lands.
+In our visits to the local representation of the Ministry of the Environment and Urban Planning we
+asked about any possible environmental disturbance the project activity could have cause, during
+construction and operation stages of the project. It is revealed in our conversations that during the
+construction period there were some issues related to dusting, but this problem is not existing at
+the time of this version of the PDD as the project activity is now operational.
+More information about the acceptance of the project and relationship between the project
+management and local stakeholders can be found in the Point Zero Social Carbon Report
+prepared for the project activity.
+In general we have observed that there has been some issues raised by the stakeholders during
+the construction phase of the project, and local inhabitants attributed  these issues mainly to the
+attitudes former owners of the project activity. The government official were happy with the project
+as the project was in compliance with the host country regulations (See Annex 1).
+Both the muhtars that we have interviewed about the project activity and the local government
+offices also noted that the communication between the Midilli HPP management and the local
+inhabitants were based on an ad hoc relationship, where the local inhabitants were always
+welcome to visit, and that they were able to reach the project activity management via cell phone,
+any time they needed.
+ANNEX-1: THE LEGAL FRAMEWORK OF THE HOST COUNTRY THAT BINDS
+THE PROJECT ACTIVITY
+Turkish Environmental Legislation
+The Environmental Law (No. 2872), which was published in Turkish Official Gazette No. 18132 dated
+August 11, 1983 and revised in Turkish Official Gazette No. 26167 dated May 13, 2006 (Law No. 5491)
+provides the legislative framework for the regulation of industries and their potential impact on the
+environment. Industrial projects are subject to varying levels of review that begin while projects are in the
+development and pre-operation phases. Additional regulations apply to facilities once they are in
+The Environmental Law authorized the promulgation of a number of regulations. Those that pertain to
+development and operation of renewable energy projects are the following:
+•  Environmental Impact Assessment Regulation, Official Gazette No. 26939 dated July 17,
+•  Water Pollution Control Regulation, Official Gazette No. 25687 dated December 31, 2004
+and revised in Official Gazette No. 26786 dated February 13, 2008;
+•  Regulation on Construction of Cesspits where there is no Wastewater Collection System,
+Official Gazette No. 13783 dated March 13, 1971;
+•  Hazardous Chemicals Regulation, Official Gazette No.21634 dated July 11, 1993 and
+revised in Official Gazette No. 27092 dated December 26, 2008;
+•  Regulation on General Principles of Waste Management, Official Gazette No. 26927 dated
+July 5, 2008;
+•  Hazardous Wastes Control Regulation, Official Gazette No. 25755 dated March 14, 2005;
+•  Waste Oil Control Regulation, Official Gazette No. 26952 dated July 30, 2008 and revised
+Official Gazette No. 27304 dated July 31, 2009;
+•  Vegetative Waste Oil Control Regulation, Official Gazette No. 25791 dated April 19, 2005;
+and revised Official Gazette No. 27305 dated July 31, 2009
+•  Solid Waste Control Regulation, Official Gazette No. 20814 dated March 14, 1991 and
+revised in Official Gazette No. 25777 dated April 5, 2005;
+•  Medical Waste Control Regulation, Official Gazette No. 25883 dated July 22, 2005;
+•  Environmental Audit Regulation, Official Gazette No. 27061 dated November 21, 2008;
+•  Packaging Waste Control Regulation, Official Gazette No. 26562 dated June 24, 2007 and
+revised in Official Gazette No. 27046 dated November 6, 2008; and
+•  Waste Batteries and Accumulators Control Regulation, Official Gazette No. 25569 dated
+August 31, 2004 and revised in Official Gazette No. 25744 dated March 03, 2005;
+•  The Excavation, Construction and Demolition Waste Control Regulation, Official Gazette No.
+25406 dated March 18, 2004;
+•  Soil Pollution Control Regulation, Official Gazette No. 25831 dated May 31, 2005;
+•  Regulation Related to Workplace Opening and Operation Permits, Official Gazette No.
+25902 dated August 10, 2005 and revised in Official Gazette No. 26492 dated April 13,
+•  Industrial Air Pollution Control Regulation, Official Gazette No.27277 dated July 3, 2009
+•  Air Quality Assessment and Management Regulation, Official Gazette No. 26898 dated June
+6, 2008 and revised in Official Gazette No. 27219 and dated May 5, 2009;
+•  Air Pollution Control Regulation For Heating Sources, Official Gazette No. 25699 dated
+January 13, 2005 and revised in Official Gazette No. 27134 dated February 07, 2009;
+•  Exhaust Gases Emission Control Regulation, Official Gazette No. 27190 dated April 04,
+2009; and
+•  Regulation on Protection of Wetlands, Official Gazette No. 25818 dated May 17, 2005.
+•  In addition to the Environmental Law and its associated regulations, there are several other
+laws that directly or indirectly include environmental review, and thus, are applicable to the
+proposed project. The project will comply with the 4857 numbered Labour Law and its
+regulations stated below:
+•  Occupational Health and Safety Statute, Official Gazette No. 14765 dated April 11, 1974;
+•  Health and Safety Regulation for Construction Works, Official Gazette No. 25325 dated
+December 23, 2003;
+•  Regulation on Health and Safety Regarding Temporary Works, Official Gazette No. 25463
+dated May 15, 2004.
+Other regulations that the project will comply with can be listed as follows:
+•  5346 numbered Utilization of Renewable Energy Resources for the Purpose of Generating
+Electrical Energy;
+•  Regulation on Protection and Usage of Agricultural Lands, Official Gazette No. 25766 dated
+March 25, 2005;
+•  2863 numbered Law on Protection of Cultural and Natural Heritage (revised by 5226
+numbered Law);
+•  4342 numbered Pasture Law;
+•  6831 numbered Forestry Law (amended by 5192 numbered Revision in Forestry Law);
+•  Regulation on Buildings located on the Disaster Areas, Official Gazette No. 26582
+dated July 14, 2007;.
+ANNEX-2: BASELINE INFORMATION
+Table 1: http://www.teias.gov.tr/TürkiyeElektrikİstatistikleri/istatistik2012/yakıt48-53/49.xls
+Table-2: IPCC Default CO  Emission Factors
+Table 3:
+Source: http://www.teias.gov.tr/TürkiyeElektrikİstatistikleri/istatistik2012/yakıt48-53/51.xls
+Table 4:
+Source: Computation based on Table 3 (in Annex-2) provided above.
+Table 5:
+Source: Computation based on Table 3 (in Annex-2) provided above.
+Table 6: Source: http://www.teias.gov.tr/TürkiyeElektrikİstatistikleri/istatistik2012/uretim%20tuketim(23-47)/42(06-12).xls
+Table 7: (http://www.teias.gov.tr/TürkiyeElektrikİstatistikleri/istatistik2012/uretim%20tuketim(23-47)/34(84-12).xls)
+Table 8a:Source: http://www.teias.gov.tr/projeksiyon/KAPASITE%20PROJEKSIYONU%202010.pdf
+San. A.Ş. (İlave)  Gas
+(Erdemyildiz Elek. Ürt.)
+(Gökçedağ Res) (İlave)
+(Düzeltme)  Gas
+Ve Hes
+Enerji Elk.)
+A.Ş. (İlave)
+(Akkur Enerji)
+(Uzundere-1 Hes)(İlave)
+Elektrik Enerji)
+Enerji Üret.)
+Ve Hes (İlave)
+A.Ş. (İlave)  er
+Mng Elekt.)
+Enerji (İlave)  Gas
+(Yedigöze Elektrik)
+(Uşak) (İlave)  Gas
+OSB)(Uşak-Ak.En.)  Gas
+Denizli)  Gas
+Enerji Ür.) (İlave)
+(Nisan Elektr.)
+Santrallari  Gas
+(Akkur Enerji)
+(Enersis Elektrik)
+A.Ş. (İlave)
+(İlave)  Gas
+Yokuşlu Hes
+Elektrik Ür.)
+(G.Antep)  er
+er  Gas
+Table 8b:
+Source: http://www.teias.gov.tr/KAPASITEPROJEKSIYONU2011.pdf
+Production  Firm
+Production  Firm
+Production  Firm
+Production  Firm
+Table 8c
+Production  Firm
+(Acarsoy En.)  Gas
+Elektrik Ür.)  Gas
+(Age Denizli)  Gas
+(Age Denizli)  Gas
+Production  Firm
+San. A.Ş.)
+(İthal Köm.+D.G)  Gas
+Elektrik Üretim)
+Elektrik Üretim)
+Elektrik Üretim)
+Ii (Darboğaz Elk. Ür. San.)
+(Ales Elekt.)  Gas
+Elek. Üret. San.)
+Enerji Üretim)
+Enerji Üretim)
+Üretim A.Ş.)
+Üretim A.Ş.)
+Çevre)  Waste
+Çevre)  Waste
+Üretim A.Ş.)
+Üretimi A.Ş.)
+Elektrik Üret.)
+Üretimi Sn.)
+Elektrik Üretim)
+Elektrik Üretim)
+Üretim A.Ş.)
+Production  Firm
+Üretim A.Ş.)
+Üretim A.Ş.)
+Üretim A.Ş.)
+Üretim A.Ş.)
+Üretim A.Ş.)
+Sant. (Karen)
+Sant. (Karen)
+Üretim A.Ş.)
+(Kudret Enerji)
+Üretim Ltd.)
+(Biogaz)  Waste
+Üretimi A.Ş.)
+Doğalgaz Çev.)  Gas
+Doğalgaz El.)  Gas
+Doğalgaz El.)  Gas
+Gas  Producer
+(Emet/Kütahya)  Gas
+(Emet/Kütahya)  Gas
+(Emet/Kütahya)  Gas
+(Emet/Kütahya)  Gas
+Aş.(Bursa)  Gas
+Haddecilik Ve Elekt.)
+Enerji Üretim)
+Production  Firm
+Enerji Elektrik)
+(Enova En Üret.)
+Üretimi A.Ş.)
+Üretim Tic. Ve Sn.)
+Üretim A.Ş.)
+Elektrik Ür.)
+Elektrik Ür.)
+Üretim A.Ş.)
+Üretim A.Ş.)
+Üretimi San.)
+Üretimi San.)
+Elektrik)  mal
+Elek. Ür.A.Ş.)
+Üret. Tic.)
+Elektrik Üretim)
+Gas  Producer
+Ltd. Şti.)
+Elektrik Üretim)  Waste
+Production  Firm
+Tic. A.Ş.  Producer
+Tic. Ve San.)
+Enerji Üretim)
+Üretim Ltd. Şti.)
+Tesisi  Producer
+Enerji Üret.)
+Üretim Tic.)
+Üretim Tic.)
+Gas  Producer
+Elektrik Üretim)
+(Senenerji Enerji)
+Üretim A.Ş.)
+Enerji Üretim A.Ş.)
+Enerji Üretim A.Ş.)
+Yatirim Sn.)
+Yatirim Sn.)
+Üretimi A.Ş.)
+Rüzgar (Aliağa-İzmir)
+Tic. A.Ş.  Gas
+Biokütle Snt)  Waste
+Production  Firm
+Tic. A.Ş.   Waste
+Tic. A.Ş.   Waste
+Tic. A.Ş.   Waste
+Üretim San.)
+(Her Enerji)  Waste
+Elektrik Üret.)
+Gas  Producer
+(Körfez Enerji)  Waste
+(Körfez Enerji)  Waste
+Üretim Tic.)
+Elektrik Üretim)
+Elektrik Ür.)
+A.Ş.  Producer
+Üretimi A.Ş.)
+Üretimi A.Ş.)
+Production  Firm
+Entegre Elekt.)
+Entegre Elekt.)
+Enerji Elektrik)
+Mosb Enerji Elektrik Üretim Ltd.        12
+Şti. (Dg.+M+F.O.)(Manisa)
+Hes Enerji El.)
+Elektrik Ür.)
+A.Ş.  Gas
+A.Ş.  Gas
+Üretim Ltd. Şti.)
+Üretim Ltd. Şti.)
+Elektrik Üretim)  Gas
+Elektrik Üretim)  Gas
+Finans Ve İş Mer.)  Gas
+Elektrik Üretim)
+(Şile/İstanbul)  Waste
+(Eyüp/İstanbul)  Waste
+Gas  Producer
+Ür. A.Ş.  Waste
+Üretim A.Ş.)
+Üretim A.Ş.)
+Elektrik Üretim)
+Elektrik Üretim)
+Production  Firm
+Elektrik Üretim)
+(Samsun Avdan En.)  Waste
+Elektrik Üret.)
+Elektrik Üret.)
+Elektrik Üretim)
+Üretim A.Ş.)  Gas
+Üretim A.Ş.)
+Gas  Producer
+Gas  Producer
+Enerjisi Üretim)
+Elekt. Üret.)
+Enerji Elektr.)  Waste
+Elk. Müh. Müş.)
+Elektrik)  mal
+Üretim A.Ş.)
+Üretim A.Ş.)
+Elektrik Üret.)
+Elektrik Üret.)
+Üretimi A.Ş.)
+A.Ş.  Producer
+Elektrik Üretim A.Ş.)
+Elektromekanik Enerji)
+Üretimi A.Ş.)
+(Tuyat Elekt.)
+Production  Firm
+Üretim A.Ş.)
+Elekt. Üret. Ltd.)
+Elk. Ür.)
+(Mem Enerji)
+(Mem Enerji)
+Üretim Ve İnşaat)
+Üretim Ve İnşaat)
+Santrali   Gas
+Santrali   Gas
+Üretim Ve Tic.)
+Üretim Ve Tic.)
+(Sanko Enerji)
+Üret. San.)
+Üret. San.)
+ANNEX-3: THE EIA EXEMPTION CERTIFICATE OF THE PROJECT ACTIVITY
+Please note that the project owner have changed tittle, but the government authorities
+didn’t change the certification as indicated in the following correspondence in the host
+country official language (Turkish).
+ANNEX-4: THE ELECTRICITY GENERATION LICENSE
+ANNEX-5: THE MAP SHOWING THE RESERVOIR AREA OF THE PROJECT ACTIVITY
