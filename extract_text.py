@@ -37,7 +37,7 @@ def remove_header(lst_page):
         page_2 = lst_page[4]
         page_3 = lst_page[5]
         header = ''
-        
+        print(page_1[0],page_2[0],page_3[0])
         if page_1[0] == page_2[0] and page_1[0] == page_3[0]:
             header = page_1[0]
                 
@@ -131,6 +131,8 @@ def extract_pdf(pdf_path, include_tables=False):
     
     return documents__
 
+
+#----------------------------------------------------------------------
 import docx
 def extract_docx(path: str) -> str:
     doc = docx.Document(path)
@@ -140,17 +142,68 @@ def extract_docx(path: str) -> str:
     return '\n'.join(full_text)
 
 
+#----------------------------------------------------------------------
+def is_pdf_full_image(pdf_path):
+    # Open the PDF file using PyPDF2
+    pdf = pdfplumber.open(pdf_path)
+    
+    # print(len(pdf.pages))
+    for p in pdf.pages:
+        if len(p.extract_text().strip()) != 0:
+            return False
+        # print(p.extract_text())
+        
+    return True
+
+# import module
+from pdf2image import convert_from_path
+from pytesseract import pytesseract
+PATH_TESSERACT = "/usr/bin/tesseract"
+def extract_text_from_img(img):
+    path_to_tesseract = PATH_TESSERACT
+    pytesseract.tesseract_cmd = path_to_tesseract
+    text = pytesseract.image_to_string(img)
+    # print(text)
+    # with open("text.txt", "a") as text_file:
+    #     text_file.write(text)
+    return text
+ 
+def extract_text_from_pdf_images(pdf_path):
+    # images = convert_from_path('pdf/Midshore_Flare_Issuance_Deed_4-27-15.pdf')
+    images = convert_from_path(pdf_path)
+    documents = []
+    for i in range(len(images)):
+        text = extract_text_from_img(images[i])
+        lst_text = text.split('\n')
+        lst_text = preprocess_page(lst_text,include_tables=False)
+        if len(lst_text) > 0:
+            documents.append(lst_text)
+    # import ipdb; ipdb.set_trace()
+    documents = remove_header(documents)
+    documents = remove_page_number(documents)
+    documents_ = ['\n'.join(page) for page in documents]
+    documents__ = '\n'.join(documents_)
+        
+    return documents__
+#----------------------------------------------------------------------
+
 def extract_text(path: str, include_tables=False) -> str:
     if path.endswith('.pdf'):
+        print("PDF")
+        if is_pdf_full_image(path):
+            print("PDF is full image")
+            return extract_text_from_pdf_images(path)
         return extract_pdf(path, include_tables=include_tables)
     elif path.endswith('.docx') or path.endswith('.doc') or path.endswith('.DOCX') or path.endswith('.DOC'):
+        print("DOCX")
         return extract_docx(path)
     else:
         raise Exception("File format not supported")
 
+    
 if __name__ == '__main__':
     # print(extract_pdf("pdf/Midshore_LFG_MR_v1.6_03302022 - CLEAN.pdf"))
     with open("output.txt", "w") as f:
-        f.write(extract_pdf("pdf/MidilliVCS PDv1.0sml.pdf", include_tables=True))
+        f.write(extract_text("pdf/Midshore_Flare_Issuance_Deed_4-27-15.pdf"))
         print("Done")
     
