@@ -141,6 +141,12 @@ def extract_docx(path: str) -> str:
         full_text.append(para.text)
     return '\n'.join(full_text)
 
+#----------------------------------------------------------------------
+import textract
+def extract_doc(path:str) -> str:
+    text = textract.process(path)
+    text = text.decode('utf-8')
+    return text
 
 #----------------------------------------------------------------------
 def is_pdf_full_image(pdf_path):
@@ -160,8 +166,8 @@ from pdf2image import convert_from_path
 from pytesseract import pytesseract
 PATH_TESSERACT = "/usr/bin/tesseract"
 def extract_text_from_img(img):
-    path_to_tesseract = PATH_TESSERACT
-    pytesseract.tesseract_cmd = path_to_tesseract
+    # path_to_tesseract = PATH_TESSERACT
+    # pytesseract.tesseract_cmd = path_to_tesseract
     text = pytesseract.image_to_string(img)
     # print(text)
     # with open("text.txt", "a") as text_file:
@@ -194,16 +200,16 @@ def extract_text(path: str, include_tables=False) -> str:
             print("PDF is full image")
             return extract_text_from_pdf_images(path)
         return extract_pdf(path, include_tables=include_tables)
-    elif path.endswith('.docx') or path.endswith('.doc') or path.endswith('.DOCX') or path.endswith('.DOC'):
+    elif path.endswith('.docx') or path.endswith('.DOCX'):
         print("DOCX")
         return extract_docx(path)
+    elif path.endswith('.doc') or path.endswith('.DOC'):
+        print("DOC")
+        return extract_doc(path)
     else:
         raise Exception("File format not supported")
 
     
 if __name__ == '__main__':
-    # print(extract_pdf("pdf/Midshore_LFG_MR_v1.6_03302022 - CLEAN.pdf"))
-    with open("output.txt", "w") as f:
-        f.write(extract_text("pdf/Midshore_Flare_Issuance_Deed_4-27-15.pdf"))
-        print("Done")
-    
+    path = ""
+    extract_docx(path)
